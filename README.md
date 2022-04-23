@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @Griffinov22
-- 👀 I’m interested in ... coding in python, but I am a true beginner!
-- 🌱 I’m currently learning ... python for programming and automation.
-- 💞️ I’m looking to collaborate on ... begginner projects for pythonistas!
+- 🌱 I’m currently learning python, HTML, CSS,  and Javascript.
 - 📫 How to reach me ... griffinovermyer@gmail.com
 
 <!---
