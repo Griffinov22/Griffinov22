@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Griffinov22
-- 🌱 I’m currently learning python, HTML, CSS,  and Javascript.
+- I am a front-end web developer
 - 📫 How to reach me ... griffinovermyer@gmail.com
 
 <!---
