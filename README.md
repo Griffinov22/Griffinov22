@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Griffinov22
-- I am a front-end web developer
+- I am a software engineer at Purdue University studying web development.
 - 📫 How to reach me ... griffinovermyer@gmail.com
 
 <!---
